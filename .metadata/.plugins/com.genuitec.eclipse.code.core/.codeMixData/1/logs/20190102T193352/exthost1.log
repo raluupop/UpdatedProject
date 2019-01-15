@@ -1,0 +1,50 @@
+[2019-01-02 19:34:07.790] [exthost1] [info] extension host started
+[2019-01-02 19:34:07.871] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:07.871] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\debug-auto-launch\out\extension
+[2019-01-02 19:34:07.897] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:07.897] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2019-01-02 19:34:08.044] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:08.044] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2019-01-02 19:34:08.149] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:08.149] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2019-01-02 19:34:08.172] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:08.172] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2019-01-02 19:34:08.613] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:08.614] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2019-01-02 19:34:09.758] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:09.758] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2019-01-02 19:34:09.763] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:09.763] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\hookyqr.beautify-1.3.0\extension
+[2019-01-02 19:34:10.104] [exthost1] [info] eager extensions activated
+[2019-01-02 19:34:11.332] [exthost1] [info] extension host started
+[2019-01-02 19:34:11.492] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.493] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\debug-auto-launch\out\extension
+[2019-01-02 19:34:11.523] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.523] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2019-01-02 19:34:11.649] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.649] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2019-01-02 19:34:11.680] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.680] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2019-01-02 19:34:11.698] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.698] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2019-01-02 19:34:11.735] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:11.735] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2019-01-02 19:34:12.016] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:12.017] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2019-01-02 19:34:12.022] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-01-02 19:34:12.022] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Raluca\.codemix\extensions\hookyqr.beautify-1.3.0\extension
+[2019-01-02 19:34:12.172] [exthost1] [info] eager extensions activated
+[2019-01-02 19:34:12.172] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-02 19:34:12.172] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2019-01-02 19:34:12.193] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-02 19:34:12.193] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\json-language-features\client\dist\jsonMain
+[2019-01-02 19:34:12.506] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-02 19:34:12.506] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\typescript-language-features\dist\extension
+[2019-01-02 19:34:13.110] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-01-02 19:34:13.110] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\grunt\out\main
+[2019-01-02 19:34:13.139] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-01-02 19:34:13.139] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\gulp\out\main
+[2019-01-02 19:34:13.178] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-01-02 19:34:13.178] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\jake\out\main
+[2019-01-02 19:34:13.199] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-01-02 19:34:13.199] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Raluca\.codemix\engine\resources\app\extensions\npm\out\main
